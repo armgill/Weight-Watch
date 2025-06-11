@@ -1,0 +1,11 @@
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+.Python
+weight_log.csv
+.DS_Store
+.vscode/
+.idea/
+.streamlit/
